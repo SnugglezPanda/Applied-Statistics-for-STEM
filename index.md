@@ -12,8 +12,7 @@ In this Module, the concept of hypothesis tesiting will be extended to three or 
 
 <dl>
   <dt> <strong><em>One-way anaylsis of variance</em></strong> <em>(one-way ANOVA)</em>
-    <dd>-determines wheterh a statistically significant difference exists among the means of three or more populations.<dd>
-  </dl>
+    <dd>-determines wheterh a statistically significant difference exists among the means of three or more populations.</dd>
 
 <ul>
   <li> <strong>ANOVA</strong> tests for an association between a categorcial predictor variable and a response variable </li>
