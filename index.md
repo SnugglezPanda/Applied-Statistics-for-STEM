@@ -11,11 +11,11 @@ In this Module, the concept of hypothesis tesiting will be extended to three or 
 ### Zybooks Notes 8.1 One-way analysis of variance (one-way ANOVA)
 
 <dl>
-  <dt> <em>One-way anaylsis of variance</em> <em>(one-way ANOVA)</em>
+  <dt> <strong><em>One-way anaylsis of variance</em></strong> <em>(one-way ANOVA)</em>
     <dd>-determines wheterh a statistically significant difference exists among the means of three or more populations.<dd>
   </dl>
 
 <ul>
-  <li> **ANOVA** tests for an association between a categorcial predictor variable and a response variable </li>
+  <li> <strong>ANOVA</strong> tests for an association between a categorcial predictor variable and a response variable </li>
   <li> A factor can be a continuous variable partitioned into intervals commonly referred to as bins </li>
-  <li> An **ANOVA** test is used to compare the means of three or more populations; as the test determines an association exists between pridctor variable and response variable </li>
+  <li> An <strong>ANOVA</strong> test is used to compare the means of three or more populations; as the test determines an association exists between pridctor variable and response variable </li>
